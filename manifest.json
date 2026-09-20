@@ -1,0 +1,10 @@
+{
+  "name":"Faith Daily — Bible & Motivation",
+  "short_name":"Faith Daily",
+  "start_url":"./",
+  "display":"standalone",
+  "background_color":"#f7f7fb",
+  "theme_color":"#4f46e5",
+  "description":"A Christian Bible, Bible study, verse of the day, and motivation app.",
+  "icons":[{"src":"icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
